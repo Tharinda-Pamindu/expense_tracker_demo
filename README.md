@@ -56,34 +56,6 @@ A new Flutter project for tracking expenses. This application helps you monitor 
 
 -----
 
-## Folder Structure
-
-expense\_tracker\_demo/
-├── android/
-├── ios/
-├── lib/
-│   ├── chart/
-│   │   ├── chart.dart
-│   │   └── chart\_bar.dart
-│   ├── models/
-│   │   ├── expense.dart
-│   │   └── expense\_bucket.dart
-│   ├── widgets/
-│   │   ├── expense\_item.dart
-│   │   ├── expense\_list.dart
-│   │   └── new\_expense.dart
-│   ├── expense\_tracker.dart
-│   ├── main.dart
-│   └── widgets/
-│       └── expenses.dart
-├── linux/
-├── macos/
-├── test/
-├── web/
-└── windows/
-
------
-
 ## Dependencies
 
   * **cupertino\_icons**: Provides iOS-style icons.
