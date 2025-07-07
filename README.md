@@ -58,7 +58,6 @@ A new Flutter project for tracking expenses. This application helps you monitor 
 
 ## Folder Structure
 
-\<pre\>
 expense\_tracker\_demo/
 ├── android/
 ├── ios/
@@ -82,7 +81,6 @@ expense\_tracker\_demo/
 ├── test/
 ├── web/
 └── windows/
-\</pre\>
 
 -----
 
